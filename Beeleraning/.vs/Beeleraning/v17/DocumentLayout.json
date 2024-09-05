@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BeeLearning\\Beeleraning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8435A96F-2A21-42D6-9F32-1DCCCDA44047}|Beeleraning\\Beeleraning.csproj|c:\\beelearning\\beeleraning\\beeleraning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8435A96F-2A21-42D6-9F32-1DCCCDA44047}|Beeleraning\\Beeleraning.csproj|solutionrelative:beeleraning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8435A96F-2A21-42D6-9F32-1DCCCDA44047}|Beeleraning\\Beeleraning.csproj|c:\\beelearning\\beeleraning\\beeleraning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8435A96F-2A21-42D6-9F32-1DCCCDA44047}|Beeleraning\\Beeleraning.csproj|solutionrelative:beeleraning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8435A96F-2A21-42D6-9F32-1DCCCDA44047}|Beeleraning\\Beeleraning.csproj|c:\\beelearning\\beeleraning\\beeleraning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8435A96F-2A21-42D6-9F32-1DCCCDA44047}|Beeleraning\\Beeleraning.csproj|solutionrelative:beeleraning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BeeLearning\\Beeleraning\\Beeleraning\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Beeleraning\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BeeLearning\\Beeleraning\\Beeleraning\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Beeleraning\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T13:21:33.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BeeLearning\\Beeleraning\\Beeleraning\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Beeleraning\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\BeeLearning\\Beeleraning\\Beeleraning\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Beeleraning\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T13:21:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\BeeLearning\\Beeleraning\\Beeleraning\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Beeleraning\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\BeeLearning\\Beeleraning\\Beeleraning\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Beeleraning\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:20:57.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
